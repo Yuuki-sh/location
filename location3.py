@@ -74,5 +74,5 @@ folium.Marker(location=[34.352585, 130.840947], popup=folium.Popup(iframe3, max_
 #    ).add_to(m)
 
 
-st_data = st_folium(m, width=1200, height=800)
+st_data = st_folium(m, width=700, height=800)
 
